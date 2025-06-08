@@ -6,7 +6,7 @@ This Webots-based simulation project explores multiple autonomous navigation str
 
 ## 📁 Project Structure
 
-[
+```
 Development of Navigation Methods/
 │
 ├── controllers/
@@ -27,8 +27,7 @@ Development of Navigation Methods/
 ├── report.pdf
 ├── Presentation.pptx
 └── README.md
-]
-
+```
 
 ---
 
